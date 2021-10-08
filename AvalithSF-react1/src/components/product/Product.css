@@ -1,0 +1,19 @@
+.product-card{
+    width: 15em;
+    background-color: #3a8aa5;
+    margin: 0.5em;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+span{
+    font-weight: bold;
+}
+
+.Disponible{
+    color: yellowgreen;
+}
+
+.Agotado{
+    color: #b12a13;
+}
